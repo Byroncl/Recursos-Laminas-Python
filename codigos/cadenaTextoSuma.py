@@ -7,4 +7,4 @@ print("------------------------------")
 print('suma #2')
 numero3 = 1
 numero4 = 2
-print(numero1 + numero2)
+print(numero3 + numero4)
