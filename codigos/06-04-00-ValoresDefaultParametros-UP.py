@@ -6,7 +6,3 @@ resultado = sumar()
 print(f'Resultado sumar: {resultado}')
 
 print(f'Resultado sumar: {sumar(2,8)}')
-
-
-
-wad
