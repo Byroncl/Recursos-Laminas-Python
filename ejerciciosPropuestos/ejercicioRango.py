@@ -9,3 +9,5 @@ if dentroRango:
     print(f'El valor {valor} está dentro de rango')
 else:
     print(f'El valor {valor} está fuera de rango')
+
+print(f'gola')
